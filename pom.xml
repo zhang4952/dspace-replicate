@@ -71,9 +71,9 @@
         GitHub repository used for version control
     -->
     <scm>
-        <connection>scm:git:git@github.com:DSpace/dspace-replicate.git</connection>
-        <developerConnection>scm:git:git@github.com:DSpace/dspace-replicate.git</developerConnection>
-        <url>git@github.com:DSpace/dspace-replicate.git</url>
+        <connection>scm:git:git@github.com:zhang4952/dspace-replicate.git</connection>
+        <developerConnection>scm:git:git@github.com:zhang4952/dspace-replicate.git</developerConnection>
+        <url>git@github.com:zhang4952/dspace-replicate.git</url>
         <tag>HEAD</tag>
     </scm>
 
